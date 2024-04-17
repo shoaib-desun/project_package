@@ -1,0 +1,19 @@
+{
+    "name": "shoaib/fibo",
+    "description": "fibonacci series",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shoaib\\Fibo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shoaib",
+            "email": "rabin.desuntech@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
